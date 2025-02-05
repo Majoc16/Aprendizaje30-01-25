@@ -1,0 +1,4 @@
+este es un segundo archivo para compartir 
+este va a pasar desde el local hasta git 
+a ver si aprendí algo 
+:)
